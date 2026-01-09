@@ -61,6 +61,7 @@ Solo dev project—help needed! Passion-based with potential revenue share (dona
 |---------------|---------------------------------|
 | 💻 Developer  | Hytale scripting, mob AI       |
 | 🎨 Modeler    | Zombies, weapons, vehicles     |
+| 📹 Animator    | Zombies, weapons, vehicles     |
 | 🏗️ Builder   | Towns, POIs, mineshafts        |
 
 **Join**: [Discord](https://discord.gg/gCRv62araB)

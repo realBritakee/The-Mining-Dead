@@ -143,6 +143,7 @@
 |---------------|---------------------------------|
 | 💻 Developer  | Hytale scripting, mob AI       |
 | 🎨 Modeler    | Zombies, weapons, vehicles     |
+| 📹 Animator    | Zombies, weapons, vehicles     |
 | 🏗️ Builder   | Towns, POIs, mineshafts        |
 
 **Compensation:** Passion project → Future revenue share (player growth, donations, premium servers).  
