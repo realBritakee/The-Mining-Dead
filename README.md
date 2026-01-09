@@ -1,4 +1,4 @@
-# The Mining Dead - Game Design Document (GDD) [Version 2.0]
+# The Mining Dead
 
 **Title**: The Mining Dead  
 **Genre**: Zombie Apocalypse Survival / Colony Building Hybrid  
